@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/investment-calculator/static/css/main.fffdfb55.css",
+    "main.css": "/investment-calculator/static/css/main.70214a29.css",
     "main.js": "/investment-calculator/static/js/main.1763f8d3.js",
     "static/js/787.f3c41a1c.chunk.js": "/investment-calculator/static/js/787.f3c41a1c.chunk.js",
     "index.html": "/investment-calculator/index.html",
-    "main.fffdfb55.css.map": "/investment-calculator/static/css/main.fffdfb55.css.map",
+    "main.70214a29.css.map": "/investment-calculator/static/css/main.70214a29.css.map",
     "main.1763f8d3.js.map": "/investment-calculator/static/js/main.1763f8d3.js.map",
     "787.f3c41a1c.chunk.js.map": "/investment-calculator/static/js/787.f3c41a1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fffdfb55.css",
+    "static/css/main.70214a29.css",
     "static/js/main.1763f8d3.js"
   ]
 }
