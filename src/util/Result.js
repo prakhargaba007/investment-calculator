@@ -22,12 +22,6 @@ function Result(prop) {
                         annualInvestment={Expense.annualInvestment}
                     />
                 ))}
-                {/* <Result1
-                        year={prop.year}
-                        intrest={prop.intrest}
-                        valueEndOfYear={prop.valueEndOfYear}
-                        annualInvestment={prop.annualInvestment}
-                    /> */}
             </tbody>
         </table>
     </div>

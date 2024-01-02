@@ -84,9 +84,14 @@ body {
   padding: 1rem;
   table-layout: fixed;
   border-spacing: 1rem;
-  text-align: right;
+  text-align:center;
 }
-
+.full{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
 #result thead {
   font-size: 0.7rem;
   color: #83e6c0;

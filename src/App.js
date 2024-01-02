@@ -11,7 +11,7 @@ function App() {
   console.log(x);
 
   return (
-    <div>
+    <div className="full">
       <EnterBox h={p} />
       <Result k={x} />
     </div>
